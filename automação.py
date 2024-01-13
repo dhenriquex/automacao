@@ -5,6 +5,8 @@
 #cadastrar o projeto
 #repetir ate a cabar
 
+#TODOS OS CLICKS FEITO PELA AUTOMAÇAO É BASEADO NA DIMENÇÃO DO MEU COMPUTADOR.
+
 #pyautogui ferramenta de automação
 #pandas manipula  a base de dados
 #pip install pyautogui instalar a biblioteca pelo prompt
